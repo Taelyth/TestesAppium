@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "deviceName": "emulator-5554",
+  "automationName": "uiautomator2",
+  "appPackage": "com.google.android.calculator",
+  "appActivity": "com.android.calculator2.Calculator"
+}
