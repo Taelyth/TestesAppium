@@ -13,11 +13,9 @@ implementation 'org.testng:testng:7.4.0'
 implementation 'io.appium:java-client:7.6.0'
 ```
 
-- O APK utilizado para os testes foi a **Calculadora do Google**.
-
-- Para rodar os testes web é necessário usar o **AVD Manager**, já disponível na **IDE IntelliJ**, ou baixá-lo de forma separada.
+- O APK utilizado para os testes de Appium é a **Calculadora do Google**.
+- Para rodar os testes em Appium é necessário usar o **AVD Manager**, já disponível na **IDE IntelliJ**, ou baixá-lo de forma separada.
 - É necessário abrir o emulador e instalar o APK da Calculadora.
-
 
 ---
 
